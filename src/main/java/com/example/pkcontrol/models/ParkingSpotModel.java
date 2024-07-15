@@ -1,6 +1,8 @@
 package com.example.pkcontrol.models;
 
-import javax.persistence.*;
+
+import jakarta.persistence.*;
+
 import java.io.Serializable;
 import java.time.LocalDateTime;
 import java.util.UUID;
